@@ -60,7 +60,5 @@ pubspec.yaml → Project dependencies
 ## 🎓 Academic Purpose
 This project is developed strictly for educational purposes as part of the Mobile Computing Laboratory coursework and is not intended for commercial use.
 
-👨‍💻 Author
-Ahmad Shafique
-Mobile Computing Lab Project
-Flutter Learning App
+## 👨‍💻 Author
+Muhammad Ahmad Shafique
